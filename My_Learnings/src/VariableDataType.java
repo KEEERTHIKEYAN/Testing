@@ -14,6 +14,8 @@ public class VariableDataType {
 		System.out.println(Dec + " is the value stored in the Dec variable");
 		System.out.println(MyCart + " is the valuie stored in the MyCart variable");
 		
+		System.out.println("Repro Test");
+		
 	}
 
 }
